@@ -41,11 +41,13 @@ print(perimetery)
 Скільки всього дерев посадили в саду?
 """
 
+
 apples = 4
 pear = apples + 5
 plum = apples - 2
 trees = apples + pear + plum
 print (trees)
+
 
 # task 08
 """
@@ -54,10 +56,12 @@ print (trees)
 Надвечір потепліло на 4 градуси. Яка температура надвечір?
 """
 
+
 temperature_am = 5
 temperature_pm = temperature_am - 10
 temperature_evening = temperature_pm + 4
 print (temperature_evening)
+
 
 
 # task 09
@@ -68,6 +72,7 @@ print (temperature_evening)
 """
 
 
+
 boys = 24
 girls = boys / 2
 ill = 1
@@ -76,12 +81,14 @@ total_children = boys + girls - ill - miss
 print (total_children)
 
 
+
 # task 10
 """
 Перша книжка коштує 8 грн., друга - на 2 грн. дороже,
 а третя - як половина вартості першої та другої разом.
 Скільки будуть коштувати усі книги, якщо купити по одному примірнику?
 """
+
 
 
 f_book = 8
